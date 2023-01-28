@@ -1,8 +1,20 @@
 # Change Log - @azure/msal-common
 
-This log was last generated on Thu, 19 Jan 2023 23:50:24 GMT and should not be manually modified.
+This log was last generated on Sat, 28 Jan 2023 00:25:25 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 9.2.0
+
+Sat, 28 Jan 2023 00:25:25 GMT
+
+### Minor changes
+
+- Add JS Queue Measurements #5352 (joarroyo@microsoft.com)
+
+### Patches
+
+- Added missing fields to InteractionRequiredAuthError #5566 (rginsburg@microsoft.com)
 
 ## 9.1.1
 

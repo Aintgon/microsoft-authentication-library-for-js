@@ -2,6 +2,35 @@
   "name": "@azure/msal-node",
   "entries": [
     {
+      "date": "Sat, 28 Jan 2023 00:25:25 GMT",
+      "tag": "@azure/msal-node_v1.15.0",
+      "version": "1.15.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "rginsburg@microsoft.com",
+            "package": "@azure/msal-node",
+            "commit": "b3920da6c81cc84cd5db53a11e0f0bef7969c3f7",
+            "comment": "Add support for custom http(s) agents #5472"
+          },
+          {
+            "author": "beachball",
+            "package": "@azure/msal-node",
+            "comment": "Bump @azure/msal-common to v9.2.0",
+            "commit": "7d12a98b6ff08542aef027820f064f593139e8ee"
+          }
+        ],
+        "none": [
+          {
+            "author": "v-ssalem@microsoft.com",
+            "package": "@azure/msal-node",
+            "commit": "376e3c0b3562896940d365c9b8e803f6ce5604d9",
+            "comment": "add tests for obo and clientConfig #5493"
+          }
+        ]
+      }
+    },
+    {
       "date": "Mon, 09 Jan 2023 22:44:58 GMT",
       "tag": "@azure/msal-node_v1.14.6",
       "version": "1.14.6",

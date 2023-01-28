@@ -2,6 +2,29 @@
   "name": "@azure/msal-common",
   "entries": [
     {
+      "date": "Sat, 28 Jan 2023 00:25:25 GMT",
+      "tag": "@azure/msal-common_v9.2.0",
+      "version": "9.2.0",
+      "comments": {
+        "minor": [
+          {
+            "author": "joarroyo@microsoft.com",
+            "package": "@azure/msal-common",
+            "commit": "860be0de8a95165a48eea8727708ea0a9ef1618a",
+            "comment": "Add JS Queue Measurements #5352"
+          }
+        ],
+        "patch": [
+          {
+            "author": "rginsburg@microsoft.com",
+            "package": "@azure/msal-common",
+            "commit": "a7a8d7089cb02f1a3c01ded86082d7b0b415accf",
+            "comment": "Added missing fields to InteractionRequiredAuthError #5566"
+          }
+        ]
+      }
+    },
+    {
       "date": "Thu, 19 Jan 2023 23:50:24 GMT",
       "tag": "@azure/msal-common_v9.1.1",
       "version": "9.1.1",

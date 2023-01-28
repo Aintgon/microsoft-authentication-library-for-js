@@ -1,8 +1,22 @@
 # Change Log - @azure/msal-browser
 
-This log was last generated on Mon, 09 Jan 2023 22:44:57 GMT and should not be manually modified.
+This log was last generated on Sat, 28 Jan 2023 00:25:25 GMT and should not be manually modified.
 
 <!-- Start content -->
+
+## 2.33.0
+
+Sat, 28 Jan 2023 00:25:25 GMT
+
+### Minor changes
+
+- Add JS Queue Measurements to acquireTokenSilent #5352 (joarroyo@microsoft.com)
+- Bump @azure/msal-common to v9.2.0
+
+### Patches
+
+- Adding page visibility change event for silent calls like AcquireTokenSilent #5555 (kshabelko@microsoft.com)
+- Revert typo changes #5582 (joarroyo@microsoft.com)
 
 ## 2.32.2
 
